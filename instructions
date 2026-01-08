@@ -1,0 +1,12 @@
+Title - Fake news prediction
+
+Steps -
+
+1. News Data.
+2. Data Pre Processing
+3. Train Test Split
+4. Logistic Regression Model
+
+Output - Trained logistic regression model which will predict the news is fake or real.
+
+Dataset - More than 43,000 entries.
